@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="字体大小"  android:id="@+id/list_view">
+        <menu>
+            <item android:title="10号"  android:id="@+id/list_view_vertical_stander"/>
+            <item android:title="16号"  android:id="@+id/list_view_vertical_reverse"/>
+            <item android:title="20号"  android:id="@+id/list_view_horizontal_stander"/>
+
+        </menu>
+    </item>
+    <item android:title="普通菜单项" android:id="@+id/grid_view">
+
+    </item>
+    <item android:title="字体颜色"  android:id="@+id/stagger_view">
+        <menu>
+            <item android:title="红色"  android:id="@+id/stagger_view_vertical_stander"/>
+            <item android:title="黑色"  android:id="@+id/stagger_view_vertical_reverse"/>
+
+        </menu>
+    </item>
+</menu>
