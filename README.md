@@ -4,7 +4,7 @@
 
 实验截图
 
-![1](https://raw.githubusercontent.com/15305966258/threeapp/imgs/1.png)
+![1](https://github.com/15305966258/threeapp/blob/2166ab10c36f8f6c6bd4b607402acd9ce9662b76/imgs/1.png)
 
 任务二：
 
