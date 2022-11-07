@@ -44,7 +44,7 @@
 
 实验截图
 
-![2](https://raw.githubusercontent.com/15305966258/threeapp/imgs/2.png)
+![2](https://github.com/15305966258/threeapp/blob/2166ab10c36f8f6c6bd4b607402acd9ce9662b76/imgs/2.png)
 
 任务三：
 
@@ -85,7 +85,7 @@
 
 实验截图
 
-![3](https://raw.githubusercontent.com/15305966258/threeapp/imgs/3.png)
+![3](https://github.com/15305966258/threeapp/blob/2166ab10c36f8f6c6bd4b607402acd9ce9662b76/imgs/3.png)
 
 任务四：
 
@@ -120,4 +120,4 @@ public boolean onCreateActionMode(ActionMode mode, Menu menu) {
 ```
 
 实验截图
-![4](https://raw.githubusercontent.com/15305966258/threeapp/imgs/4.png)
+![4](https://github.com/15305966258/threeapp/blob/2166ab10c36f8f6c6bd4b607402acd9ce9662b76/imgs/4.png)
